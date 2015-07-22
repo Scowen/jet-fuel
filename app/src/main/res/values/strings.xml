@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Jet Fuel</string>
+    <string name="app_name">Snog Marry Avoid</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="facebook_app_id">1485141408445745</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>

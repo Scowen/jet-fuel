@@ -1,3 +1,3 @@
 # jet-fuel
 
-A small prject skeleton for facebook integration on Android.
+A small project skeleton for facebook integration on Android.
